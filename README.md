@@ -1,13 +1,13 @@
 # Hi there, I'm Jonathan Dameus 👋
 
-Welcome to my GitHub! I’m a passionate technologist with a Bachelor’s in Information Systems Technology (minor in Computer Programming and Analysis), currently pursuing my Master’s in Computer Science. My journey is driven by curiosity, continuous learning, and the excitement of turning ideas into impactful solutions.
+Welcome to my GitHub! I’m a passionate technologist with a **Bachelor’s in Information Systems Technology** (minor in **Computer Programming and Analysis**), currently pursuing my **Master’s in Computer Science**. My journey is driven by curiosity, continuous learning, and the excitement of turning ideas into impactful solutions.
 
 ## 👨‍💻 About Me
 
 - 🎓 **Education:**  
-  - Bachelor’s in Information Systems Technology  
-  - Minor: Computer Programming and Analysis  
-  - Currently: Master’s in Computer Science
+  - **Bachelor’s in Information Systems Technology**  
+  - **Minor:** Computer Programming and Analysis  
+  - **Currently pursuing:** Master’s in Computer Science
 
 - 🛠️ **Technical Skills:**  
   - **Languages:** Java, C#, Python, SQL, R  
