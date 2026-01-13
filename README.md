@@ -21,13 +21,13 @@ Welcome to my GitHub! I’m a passionate technologist with a **Bachelor’s in I
 
 ## 🚀 Featured Projects
 
-- [**CatchingSouls**](https://github.com/EmergeIT-LLC/CatchingSouls):  
+- [**CatchingSouls**](https://github.com/Devino-Labs-LLC/CatchingSouls):  
   My first full-stack project—an exciting milestone and a foundation for continuous improvement.
 
-- [**BehaviorMonitoring**](https://github.com/EmergeIT-LLC/BehaviorMonitioring):  
+- [**BehaviorMonitoring**](https://github.com/Devino-Labs-LLC/BehaviorMonitioring):  
   A showcase of my evolving skills, blending analytics, monitoring, and software design. Many lessons learned from CatchingSouls have been applied here.
 
-- [**OpticAI**](https://github.com/EmergeIT-LLC/OpticAI):  
+- [**OpticAI**](https://github.com/Devino-Labs-LLC/OpticAI):  
   My inaugural Raspberry Pi project—pushing the boundaries of AI deployment on edge devices.
 
 ## 🌟 Outside of Tech
