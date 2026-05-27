@@ -5,9 +5,9 @@ Welcome to my GitHub! I’m a passionate technologist with a **Bachelor’s in I
 ## 👨‍💻 About Me
 
 - 🎓 **Education:**  
+  - **Master’s in Computer Science**
   - **Bachelor’s in Information Systems Technology**  
   - **Minor:** Computer Programming and Analysis  
-  - **Currently pursuing:** Master’s in Computer Science
 
 - 🛠️ **Technical Skills:**  
   - **Languages:** Java, C#, Python, SQL, R  
